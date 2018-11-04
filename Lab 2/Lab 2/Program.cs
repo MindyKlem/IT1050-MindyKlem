@@ -45,4 +45,4 @@ namespace Lab2
                 Console.ReadKey(true);
             }// end Main
         }// end claas Multiplication 
-    }
+    } 
